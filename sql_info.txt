@@ -1,4 +1,0 @@
-Cadeia de conexão: Server=localhost;Database=master;Trusted_Connection=True;
-Nome da instância: MSSQLSERVER
-!!! USAR NOME DO PC PARA CONECTAR AO SSMS !!!
-Instalar sql server developer e SSMS
